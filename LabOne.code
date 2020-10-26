@@ -6,18 +6,18 @@ public class LabOne {
 	    public static void main(String[] args) {
 
 	        Scanner input = new Scanner(System.in);
-	        String NameAndId = "Alyazi Abdullah 1075563"; 
+	    
 	        String password = " ";
 	        char c;
 	        int size = 0;
 	        String letters = new
 	                String("&*()789FGHIJKabcdefghijklmLMNO^|{]}PQRSTU!@#$%VWXYZ123456nopqrstuvwxyzABCDE ");
 
-	        // A second String which contains id and name
+	        // String that contains  my id and my name
 
-	        String nameID = "JohnS3F17BSCS0042";
+	        String nameID = "Alyazi Abdullah 1075563";
 
-	        // A loop which allows user to generate passwords as many times as he wants
+	        // A loop which allows user to generate passwords as many times as person wants 
 
 	        while (true) {
 
